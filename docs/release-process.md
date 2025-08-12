@@ -142,7 +142,7 @@ slightly different steps. We'll call attention where the steps differ.
    > push them!
    >
    > ```shell
-   > git checkout -b php-X.Y.0beta2-local-release-branch upstream/PHP-X.Y
+   > git checkout -b php-X.Y.0RC2-local-release-branch upstream/PHP-X.Y
    > ```
 
    > 🔷 **Non-stable version branches: post-GA** \
